@@ -1,0 +1,13 @@
+# Secrets
+.env
+
+# Python artifacts
+__pycache__/
+*.pyc
+
+# Model artifacts (Large files should be handled or recreated)
+models/*.joblib
+
+# Local environment
+.venv/
+.streamlit/
